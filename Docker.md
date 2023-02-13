@@ -34,5 +34,15 @@ important
 
 Dockerfile ,Image and container
 
-Doockerfile:- 
+Doockerfile:- Text Document which contains all the commands that a user can call on the commant line to assemble an image.
+
+
+Docker Image:- Template to create docker coatainer.
+
+Docker Conatiner:- Running instance off the docker image.Conatiners hold entire packages to run applications.
+
+
+Docker -> build -> DockerImage -> run ->DockerConatiner
+
+
 
