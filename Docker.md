@@ -44,5 +44,13 @@ Docker Conatiner:- Running instance off the docker image.Conatiners hold entire 
 
 Docker -> build -> DockerImage -> run ->DockerConatiner
 
+Docker Install
 
+open cmd 
+
+type docker -v
+
+docker run hello-world
+
+docker images
 
