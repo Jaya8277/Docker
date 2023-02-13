@@ -49,8 +49,38 @@ Docker Install
 open cmd 
 
 type docker -v
-
+docker --version
 docker run hello-world
 
 docker images
+
+docker hub is website where all images are their
+
+we can pull explore
+
+image pull
+docker pull [imagename]
+show images 
+docker images cmd
+docker pull openjdk:18
+
+
+docker seacrh mysql
+docker seacrh nginx
+
+
+docker container //
+docker ps cmd
+
+docker ps -a  
+
+ docker run --name pythonContainer -d f92346e0c39e
+
+  docker run --name pythonContainer1 -it -d python
+
+  docker ps
+
+
+  docker exec -t a51f54f068c6 python3
+
 
