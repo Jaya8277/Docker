@@ -57,6 +57,12 @@ docker images
 docker hub is website where all images are their
 
 we can pull explore
+//cmd
+image pull
+docker pull [imagename]
+show images 
+docker images cmd
+docker pull openjdk:18
 
 image pull
 docker pull [imagename]
