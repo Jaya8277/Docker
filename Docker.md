@@ -90,3 +90,10 @@ docker ps -a
   docker exec -t a51f54f068c6 python3
 
 
+print("this is testing")
+
+class test:
+pass
+
+ob=Test()
+print(ob)
