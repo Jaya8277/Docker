@@ -9,6 +9,8 @@ conteatiner with dependencises
 
 understand the docker
 
+
+
 we have a hardware -> ram,motherboard,ssd
 we did assemble and make a computer
 
